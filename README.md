@@ -1,4 +1,4 @@
-# Langflow Assets and Techniques
+# Langflow Components
 
 A curated collection of custom components and practical techniques for Langflow.  
 Designed to extend Langflow’s capabilities with modular, visual tools for GenAI workflows.
