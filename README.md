@@ -9,3 +9,7 @@ Designed to extend Langflow’s capabilities with modular, visual tools for GenA
 
 - Audio transcript https://github.com/yobens5/Langflow/blob/main/audiotranscriber_whisper1.py
 
+- AdvancedWebCrawler, intended to crawl web pages and extract structured data https://github.com/yobens5/Langflow/blob/main/adv_web_crawler.py
+
+- Extract PDF and page metadata https://github.com/yobens5/Langflow/blob/main/pdf_page_exyractor.py
+
